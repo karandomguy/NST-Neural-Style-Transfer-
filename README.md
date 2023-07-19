@@ -4,9 +4,10 @@ This project implements neural style transfer, a technique that combines the con
 
 ## Examples
 
-![Generated Image 1](generatedimages/generatedimg1.png)
-![Generated Image 2](generatedimages/generatedimg2.png)
-![Generated Image 3](generatedimages/generatedimg3.png)
+
+![generatedimg1](https://github.com/karandomguy/NST-Neural-Style-Transfer-/assets/138625095/c090fdf0-311f-488e-bd07-71f91a63ce39)
+![generatedimg2](https://github.com/karandomguy/NST-Neural-Style-Transfer-/assets/138625095/58c8d77f-c0be-4177-b147-9f01d6a62119)
+![generatedimg3](https://github.com/karandomguy/NST-Neural-Style-Transfer-/assets/138625095/087acf7b-dc26-4b14-a728-eda8f9d198f4)
 
 ## Acknowledgement
 
